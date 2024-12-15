@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="7" time="180.227">
+    <testcase classname="SignUp Website" name="Test001 Signup Website (user)" time="40.583">
+        <system-out><![CDATA[When Test001 Membuka Halaman Website........................................passed
+And Test001 Click Button SignUp.............................................passed
+And Test001 Validasi SignUp.................................................passed
+And Test001 Input TextField jajajakcvasdg777779 Yang Valid One..............passed
+And Test001 Input TextField jajak4k4 Yang Valid Two.........................passed
+And Test001 Validasi Form Sign UP...........................................passed
+And Test001 Click Button SignUp Form........................................passed
+Then Test001 Pop Out Sign Up Berhasil.......................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="LogIn Website" name="Test002 LogIn Website (user)" time="12.643">
+        <system-out><![CDATA[When Test002 Click Button Log In............................................passed
+And Test002 Validasi Log In.................................................passed
+And Test002 Input TextField jajajakcvasdg777779 Yang Valid One..............passed
+And Test002 Input TextField jajak4k4 Yang Valid Two.........................passed
+Then Test002 Click Button Login Form........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Cart Website" name="Test003 Cart Samsung Galaxy S6" time="15.959">
+        <system-out><![CDATA[When Test003 Validasi website...............................................passed
+And Test003 Membuka Item Samsung Galaxy S6..................................passed
+And Test003 Click Button Add To Cart........................................passed
+Then Test003 Klik Ok Pop Up.................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Cart Website" name="Test004 Cart Nokia Lumia 1520" time="19.65">
+        <system-out><![CDATA[When Test004 Click Button Home..............................................passed
+And Test004 Validasi website................................................passed
+And Test004 Membuka Item Nokia Lumia 1520...................................passed
+And Test004 Click Button Add To Cart........................................passed
+Then Test004 Klik Ok Pop Up.................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Cart Website" name="Test005 Cart Nexus6" time="19.647">
+        <system-out><![CDATA[When Test005 Click Button Home..............................................passed
+And Test005 Validasi website................................................passed
+And Test005 Membuka Item Nexus6.............................................passed
+And Test005 Click Button Add To Cart........................................passed
+Then Test005 Klik Ok Pop Up.................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Cart Website" name="Test006 Cart Item" time="9.871">
+        <system-out><![CDATA[When Test006 Click Button Cart..............................................passed
+And Test006 Validasi Cart Page..............................................passed
+Then Test006 Click Button Place Order.......................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Checkout Website" name="Test007 Checkout Item" time="56.773">
+        <system-out><![CDATA[When Test007 Validasi CheckOut Page.........................................passed
+And Test007 Input TextField budi Yang Valid One.............................passed
+And Test007 Input TextField indonesia Yang Valid Two........................passed
+And Test007 Input TextField banyumas Yang Valid Three.......................passed
+And Test007 Input TextField 55612345 Yang Valid Four........................passed
+And Test007 Input TextField March Yang Valid Five...........................passed
+And Test007 Input TextField 2024 Yang Valid Six.............................passed
+And Test007 Click Button purchase...........................................passed
+And Test007 Validasi Check Out Form.........................................passed
+And Test007 Click Button Ok.................................................passed
+And Test007 Validasi website................................................passed
+Then Test007 Click Button Log Out...........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
