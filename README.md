@@ -17,7 +17,7 @@
 
 Here're some of the project's best features:
 
-<h2>🛠️ Installation Steps:</h2>
+<h2>🛠️ Running Steps:</h2>
 
 <p>1. Download the jar file from link</p>
 
