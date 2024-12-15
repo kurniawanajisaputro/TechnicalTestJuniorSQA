@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/kurniawanajisaputro/TechnicalTestJuniorSQA/image?font=Raleway&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" alt="project-image"></p>
 
-<p id="description">Teknikal Test junior Sqa test Automation Demoblaze</p>
+<p id="description">Teknikal Test junior Sqa Test Automation Demoblaze</p>
 
 <h2>Selenium Report:</h2>
 
